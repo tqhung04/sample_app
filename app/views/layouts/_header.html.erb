@@ -1,0 +1,15 @@
+<header class="navbar navbar-fixed-top navbar-inverse">
+  <div class="container">
+    <%= link_to "sample app", root_path, id: "logo" %>
+    <nav>
+      <ul class="nav navbar-nav navbar-right">
+        <li><%= link_to t(:english), locale:"en" %></li>
+        <li><%= link_to t(:vietnamese), locale:"vi" %></li>
+        <li><%= link_to t(:homepage), root_path %></li>
+        <li><%= link_to t(:about), about_path %></li>
+        <li><%= link_to t(:contact), contact_path %></li>
+        <li><%= link_to t(:signup), signup_path %></li>
+      </ul>
+    </nav>
+  </div>
+</header>
