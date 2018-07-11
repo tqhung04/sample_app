@@ -2,3 +2,6 @@ en:
   hello: "Hello"
   title: "Title"
   homepage: "Homepage"
+  about: "About"
+  contact: "Contact"
+  base_title: "Ruby on Rails Tutorial Sample App"

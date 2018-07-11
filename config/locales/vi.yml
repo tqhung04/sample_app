@@ -2,3 +2,6 @@ vi:
   hello: "Xin chao"
   title: "Tieu de"
   homepage: "Trang chu"
+  about: "Gioi thieu"
+  contact: "Lien he"
+  base_title: "Ung dung Rails co ban"
