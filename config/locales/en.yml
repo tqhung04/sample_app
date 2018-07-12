@@ -6,11 +6,15 @@ en:
   contact: "Contact"
   base_title: "Ruby on Rails Tutorial Sample App"
   signup: "Signup"
+  login: "Login"
   english: "English"
   vietnamese: "Vietnamese"
   signup_success_msg: "Signup success"
   form_errors_msg: "The form contains"
   error: "error"
+  create_account: "Create my account"
+  profile: "Profile"
+  account: "Account"
 
   activerecord:
     attributes:
@@ -19,3 +23,6 @@ en:
         email: "Email"
         password: "Password"
         repassword: "Confirm password"
+
+  login_success_msg: "Login success"
+  login_failed_msg: "Login failed"
