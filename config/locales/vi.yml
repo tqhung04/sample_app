@@ -8,3 +8,14 @@ vi:
   signup: "Dang ky"
   english: "Tieng Anh"
   vietnamese: "Tieng Viet"
+  signup_success_msg: "Dang ky thanh cong"
+  form_errors_msg: "Form chua"
+  error: "loi"
+
+  activerecord:
+    attributes:
+      user:
+        name: "Ten"
+        email: "Email"
+        password: "Mat khau"
+        repassword: "Xac nhan mat khau"

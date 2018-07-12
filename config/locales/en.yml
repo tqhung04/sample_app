@@ -8,3 +8,14 @@ en:
   signup: "Signup"
   english: "English"
   vietnamese: "Vietnamese"
+  signup_success_msg: "Signup success"
+  form_errors_msg: "The form contains"
+  error: "error"
+
+  activerecord:
+    attributes:
+      user:
+        name: "Name"
+        email: "Email"
+        password: "Password"
+        repassword: "Confirm password"
