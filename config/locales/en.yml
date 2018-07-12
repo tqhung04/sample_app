@@ -5,3 +5,6 @@ en:
   about: "About"
   contact: "Contact"
   base_title: "Ruby on Rails Tutorial Sample App"
+  signup: "Signup"
+  english: "English"
+  vietnamese: "Vietnamese"
