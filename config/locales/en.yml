@@ -22,6 +22,10 @@ en:
   change: "Change"
   all_users: "All users"
   confirm: "Are you sure?"
+  account_active: "Account activation"
+  active: "Active"
+  check_account_active: "Account not activate! Please check your email to activate your account."
+  accout_active_greeting: "Welcome to the Sample App! Click on the link below to activate your account:"
 
   activerecord:
     attributes:
@@ -38,4 +42,7 @@ en:
   profile_delete_success_msg: "Deleted successfully"
   profile_delete_failed_msg: "Failed to delete profile"
   login_warning_msg: "Please login!"
+  active_success_smg: "Account activated!"
+  active_failed_smg: "Invalid activation link!"
+  not_active_smg: "Account not activate!"
   remember_me: "Remember me on this computer"
