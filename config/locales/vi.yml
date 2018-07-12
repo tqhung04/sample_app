@@ -15,6 +15,13 @@ vi:
   create_account: "Tao tai khoan"
   profile: "Thong tin ca nhan"
   account: "Tai khoan"
+  setting: "Thiet lap"
+  edit_profile: "Sua thong tin"
+  save: "Luu thay doi"
+  delete: "Xoa"
+  change: "Thay doi"
+  all_users: "Tat ca nguoi dung"
+  confirm: "Ban chac chan muon tiep tuc?"
 
   activerecord:
     attributes:
@@ -26,4 +33,9 @@ vi:
 
   login_success_msg: "Dang nhap thanh cong"
   login_failed_msg: "Dang nhap that bai"
+  profile_updated_success_msg: "Tai khoan da duoc cap nhat"
+  profile_updated_failed_msg: "Tai khoan chua duoc cap nhat"
+  profile_delete_success_msg: "Xoa nguoi dung thanh cong"
+  profile_delete_failed_msg: "Xoa nguoi dung that bai"
+  login_warning_msg: "Hay dang nhap!"
   remember_me: "Luu tai khoan cho nhung lan dang nhap sau"
