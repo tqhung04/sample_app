@@ -26,3 +26,4 @@ en:
 
   login_success_msg: "Login success"
   login_failed_msg: "Login failed"
+  remember_me: "Remember me on this computer"

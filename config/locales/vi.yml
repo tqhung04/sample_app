@@ -26,3 +26,4 @@ vi:
 
   login_success_msg: "Dang nhap thanh cong"
   login_failed_msg: "Dang nhap that bai"
+  remember_me: "Luu tai khoan cho nhung lan dang nhap sau"
