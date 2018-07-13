@@ -6,11 +6,15 @@ vi:
   contact: "Lien he"
   base_title: "Ung dung Rails co ban"
   signup: "Dang ky"
+  login: "Dang nhap"
   english: "Tieng Anh"
   vietnamese: "Tieng Viet"
   signup_success_msg: "Dang ky thanh cong"
   form_errors_msg: "Form chua"
   error: "loi"
+  create_account: "Tao tai khoan"
+  profile: "Thong tin ca nhan"
+  account: "Tai khoan"
 
   activerecord:
     attributes:
@@ -19,3 +23,6 @@ vi:
         email: "Email"
         password: "Mat khau"
         repassword: "Xac nhan mat khau"
+
+  login_success_msg: "Dang nhap thanh cong"
+  login_failed_msg: "Dang nhap that bai"
