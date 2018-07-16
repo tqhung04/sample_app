@@ -16,8 +16,11 @@ gem "sqlite3"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
 gem "jquery-rails"
-gem 'bcrypt', "3.1.12"
+gem "bcrypt", "3.1.12"
 gem "config"
+gem "faker", "1.7.3"
+gem "will_paginate", "3.1.6"
+gem "bootstrap-will_paginate", "1.0.0"
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]

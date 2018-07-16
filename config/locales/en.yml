@@ -15,6 +15,13 @@ en:
   create_account: "Create my account"
   profile: "Profile"
   account: "Account"
+  setting: "Setting"
+  edit_profile: "Edit profile"
+  save: "Save"
+  delete: "Delete"
+  change: "Change"
+  all_users: "All users"
+  confirm: "Are you sure?"
 
   activerecord:
     attributes:
@@ -26,4 +33,9 @@ en:
 
   login_success_msg: "Login success"
   login_failed_msg: "Login failed"
+  profile_updated_success_msg: "Profile updated"
+  profile_updated_failed_msg: "Failed to updated profile"
+  profile_delete_success_msg: "Deleted successfully"
+  profile_delete_failed_msg: "Failed to delete profile"
+  login_warning_msg: "Please login!"
   remember_me: "Remember me on this computer"
