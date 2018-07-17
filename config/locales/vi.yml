@@ -26,6 +26,15 @@ vi:
   active: "Kich hoat"
   check_account_active: "Tai khoan chua duoc kich hoat. Kiem tra email de kich hoat tai khoan"
   accout_active_greeting: "Xin chao! Nhan vao link nay de kich hoat tai khoan:"
+  forgot_password: "Quen mat khau"
+  submit: "Di"
+  password_reset_intruction: "Email duoc gui cung voi huong dan thay doi mat khau"
+  password_reset: "Thay mat khau"
+  email_not_found: "Email nay khong ton tai"
+  password_reset_mail: "Click vao link duoi day de reset mat khau. Link se tu huy trong 2 gio. Neu ban khong muon reset, hay bo qua email nay."
+  password_reset_expired: "Thay doi mat khau da het han."
+  not_null: "khong the de trong"
+  password_reset_done: "Mat khau da duoc thay doi."
 
   activerecord:
     attributes:
