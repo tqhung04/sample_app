@@ -22,6 +22,10 @@ vi:
   change: "Thay doi"
   all_users: "Tat ca nguoi dung"
   confirm: "Ban chac chan muon tiep tuc?"
+  account_active: "Kich hoat tai khoan"
+  active: "Kich hoat"
+  check_account_active: "Tai khoan chua duoc kich hoat. Kiem tra email de kich hoat tai khoan"
+  accout_active_greeting: "Xin chao! Nhan vao link nay de kich hoat tai khoan:"
 
   activerecord:
     attributes:
@@ -38,4 +42,7 @@ vi:
   profile_delete_success_msg: "Xoa nguoi dung thanh cong"
   profile_delete_failed_msg: "Xoa nguoi dung that bai"
   login_warning_msg: "Hay dang nhap!"
+  active_success_smg: "Kich hoat tai khoan thanh cong!"
+  active_failed_smg: "Duong dan kich hoat khong dung!"
+  not_active_smg: "Tai khoan chua duoc kich hoat!"
   remember_me: "Luu tai khoan cho nhung lan dang nhap sau"
