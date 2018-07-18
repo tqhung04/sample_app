@@ -40,6 +40,10 @@ vi:
   view_my_profile: "Xem trang ca nhan"
   micropost_feed : "Tin Micropost"
   size_image_error: "phai nho hon 5MB"
+  following: "dang theo doi"
+  followers: "nguoi theo doi"
+  follow: "Theo doi"
+  unfollow: "Bo theo doi"
 
   activerecord:
     attributes:
