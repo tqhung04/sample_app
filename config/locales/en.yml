@@ -26,6 +26,15 @@ en:
   active: "Active"
   check_account_active: "Account not activate! Please check your email to activate your account."
   accout_active_greeting: "Welcome to the Sample App! Click on the link below to activate your account:"
+  forgot_password: "Forgot password"
+  submit: "Submit"
+  password_reset_intruction: "Email sent with password reset instructions"
+  password_reset: "Reset password"
+  email_not_found: "Email not found"
+  password_reset_mail: "To reset your password click the link below. This link will expire in two hours. If you did not request your password to be reset, please ignore this email and your password will stay as it is."
+  password_reset_expired: "Password reset has expired."
+  not_null: "can't be empty"
+  password_reset_done: "Password has been reset."
 
   activerecord:
     attributes:
