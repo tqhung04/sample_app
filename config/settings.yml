@@ -1,10 +1,14 @@
 maximum:
   length_email: 255
   length_name: 50
+  length_micropost_content: 140
+  length_megabytes_image: 5
+  resize_to_limit: 400
 minimum:
   length_pass: 6
 size:
   gravatar: 80
+  gravatar_micropost: 50
 page:
   per_page: 10
 password_reset:

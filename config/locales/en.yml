@@ -35,6 +35,11 @@ en:
   password_reset_expired: "Password reset has expired."
   not_null: "can't be empty"
   password_reset_done: "Password has been reset."
+  created: "Created"
+  ago: "ago"
+  view_my_profile: "View my profile"
+  micropost_feed : "Micropost Feed"
+  size_image_error: "should be less than 5MB"
 
   activerecord:
     attributes:
@@ -54,4 +59,8 @@ en:
   active_success_smg: "Account activated!"
   active_failed_smg: "Invalid activation link!"
   not_active_smg: "Account not activate!"
+  micropost_created_success_msg: "Micropost created!"
+  micropost_created_failed_msg: "Micropost not created!"
+  micropost_delete_success_msg: "Micropost deleted!"
+  micropost_delete_failed_msg: "Micropost not deleted!"
   remember_me: "Remember me on this computer"

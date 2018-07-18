@@ -35,6 +35,11 @@ vi:
   password_reset_expired: "Thay doi mat khau da het han."
   not_null: "khong the de trong"
   password_reset_done: "Mat khau da duoc thay doi."
+  created: "Duoc tao"
+  ago: "truoc"
+  view_my_profile: "Xem trang ca nhan"
+  micropost_feed : "Tin Micropost"
+  size_image_error: "phai nho hon 5MB"
 
   activerecord:
     attributes:
@@ -54,4 +59,8 @@ vi:
   active_success_smg: "Kich hoat tai khoan thanh cong!"
   active_failed_smg: "Duong dan kich hoat khong dung!"
   not_active_smg: "Tai khoan chua duoc kich hoat!"
+  micropost_created_success_msg: "Micropost da duoc tao!"
+  micropost_created_failed_msg: "Micropost chua duoc tao!"
+  micropost_delete_success_msg: "Micropost da duoc xoa!"
+  micropost_delete_failed_msg: "Micropost chua duoc xoa!"
   remember_me: "Luu tai khoan cho nhung lan dang nhap sau"
