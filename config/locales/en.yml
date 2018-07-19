@@ -40,6 +40,10 @@ en:
   view_my_profile: "View my profile"
   micropost_feed : "Micropost Feed"
   size_image_error: "should be less than 5MB"
+  following: "following"
+  followers: "followers"
+  follow: "Follow"
+  unfollow: "Unfollow"
 
   activerecord:
     attributes:
